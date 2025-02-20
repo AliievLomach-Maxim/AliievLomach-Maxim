@@ -2,7 +2,7 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-### <div align="center">I'm Maxim, a Software Engineer developer 👨‍💻 🚀</div>  
+<div align="center">I'm Maxim, a Software Engineer developer 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on [AIWEB Solutions](https://www.linkedin.com/company/aiweb-solutions)  
@@ -92,10 +92,6 @@ Copilot 😅
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AliievLomach-Maxim&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
   
 
 <br/>  
