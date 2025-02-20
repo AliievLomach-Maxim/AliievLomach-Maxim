@@ -41,7 +41,7 @@ Copilot 😅
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Angular" height="50" /></a>  
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://www.angular.kr/assets/images/logos/angular/angular.svg" alt="Angular" height="50" /></a>  
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
 <a href="https://www.ionicframework.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="50" /></a>  
