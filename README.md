@@ -36,6 +36,8 @@ Copilot 😅
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
 <a href="https://ant.design/" target="_blank"><img style="margin: 10px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="ant.design" height="50" /></a>  
+<a href="https://primeng.org/" target="_blank"><img style="margin: 10px" src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo-black.png?fit=300%2C300&ssl=1" alt="primeng" height="50" /></a>  
+<a href="https://material.angular.io/" target="_blank"><img style="margin: 10px" src="https://www.angular.kr/generated/images/marketing/concept-icons/material.png" alt="material.angular" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
