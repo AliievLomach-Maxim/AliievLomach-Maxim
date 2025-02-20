@@ -19,7 +19,9 @@ Copilot 😅
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<table style="min-width:100%">
+<tr>
+<td valign="top" width="50%">
 
 
 
@@ -35,7 +37,7 @@ Copilot 😅
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
-<a href="https://ant.design/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="ant.design" height="50" /></a>  
+<a href="https://ant.design/" target="_blank"><img style="margin: 10px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="ant.design" height="50" /></a>  
 
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
@@ -53,10 +55,9 @@ Copilot 😅
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 
 </div>
+</td>
 
-</td><td valign="top" width="50%">
-
-
+<td valign="top" width="50%">
 
 ### Backend  
 <div align="center">  
@@ -76,8 +77,9 @@ Copilot 😅
 
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
-
-</tr></table>  
+</td>
+</tr>
+</table>  
 
 <br/>  
 
