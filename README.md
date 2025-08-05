@@ -5,7 +5,7 @@
 <div align="center">I'm Maxim, a Software Engineer developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [AIWEB Solutions](https://www.linkedin.com/company/aiweb-solutions)  
+- 🔭 I’m currently working on [Ranking Copilot](https://www.linkedin.com/company/rankingcopilot-com)  
   
 
 - 🌱 I’m currently learning AI  
