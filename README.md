@@ -1,9 +1,9 @@
 <h1>
-  Hey there
+  Hey there, I'm Maxim a Full-Stack Engineer👨‍💻 🚀
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">I'm Maxim, a Software Engineer 👨‍💻 🚀</div>  
-  
+</h1> 
+
+<br/>    
 
 🚀 I build scalable SaaS products and data-driven systems  
 ⚡ Focus on performance, architecture, and clean code  
