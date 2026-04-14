@@ -2,17 +2,12 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">I'm Maxim, a Software Engineer developer 👨‍💻 🚀</div>  
+<div align="center">I'm Maxim, a Software Engineer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [Ranking Copilot](https://www.linkedin.com/company/rankingcopilot-com)  
-  
-
-- 🌱 I’m currently learning AI  
-  
-
-- ⚡ Fun fact: I'm still not using
-Copilot 😅  
+🚀 I build scalable SaaS products and data-driven systems  
+⚡ Focus on performance, architecture, and clean code  
+🤖 Experience with AI integrations and automation 
   
 
 <br/>  
